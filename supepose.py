@@ -1,13 +1,6 @@
-import re
-import os
 import sys
-import sets
-import math
-import glob
 import numpy
 import pybel
-import scipy
-import subprocess
 
 sys.path.append("./modules")
 import kabsch_minima
